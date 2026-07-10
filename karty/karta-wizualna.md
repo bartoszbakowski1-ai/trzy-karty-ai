@@ -1,6 +1,6 @@
 # Karta wizualna
 
-> Jak wygląda mój świat. Ta karta przyda się, gdy będę budować stronę.
+> Jak wygląda mój świat. Ta karta przyda się przy stronie internetowej, grafikach i wszystkim, co ma wyglądać jak Ty.
 > Nie musisz znać się na designie. Odpowiadaj po ludzku, resztę AI pomoże dobrać.
 
 ## Nastrój marki w 3 słowach

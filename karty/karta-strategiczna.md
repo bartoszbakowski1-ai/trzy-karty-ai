@@ -23,6 +23,10 @@
 <!-- Z jakiego punktu A do jakiego punktu B prowadzę klienta. -->
 [do uzupełnienia]
 
+## Dowody i zaufanie
+<!-- Co mnie uwiarygadnia: opinie, liczby, efekty klientów, certyfikaty, media. Wpisz też, czego jeszcze brakuje. -->
+[do uzupełnienia]
+
 ## Moje cele teraz
 <!-- Co jest dla mnie ważne w tym momencie: więcej klientów, sprzedaż konkretnego produktu, zbudowanie listy mailowej itd. -->
 [do uzupełnienia]

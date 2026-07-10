@@ -25,7 +25,9 @@ Robimy trzy karty po kolei. Po zebraniu odpowiedzi na każdą, złóż mi gotow�
 
 3. KARTA GŁOSU (jak masz pisać za mnie): jak mówię do odbiorców, słowa których używam, słowa których unikam, energia i długość, czego nigdy nie robić, przykład mojego tekstu.
 
-Na koniec przypomnij mi, żeby kartę strategiczną i kartę głosu wkleić do mojego stałego kontekstu AI (pliku CLAUDE.md albo na początku każdej rozmowy), a kartę wizualną zachować na moment budowy strony.
+Ważne: pytaj o cały mój biznes, nie tylko o stronę internetową. Karty mają opisywać mnie, a strona to tylko jedno z zastosowań, obok ofert, postów i maili.
+
+Na koniec złóż z karty strategicznej i karty głosu JEDEN gotowy blok kontekstu do skopiowania. Na górze bloku dodaj krótką instrukcję dla AI: traktuj ten opis jako źródło prawdy o mnie, nie zmyślaj faktów ani liczb, pisz moim głosem. Potem wytłumacz mi, jak tego używać: jeśli pracuję w Claude Code, zapisuję ten blok jako plik CLAUDE.md w folderze projektu (AI czyta go samo na starcie); jeśli używam zwykłego chatu, wklejam go na początek ważnej rozmowy. Kartę wizualną zachowuję na moment budowy strony internetowej i grafik.
 
 Zacznij teraz: przywitaj mnie krótko, wytłumacz w 2-3 zdaniach plan i zadaj pierwsze pytanie do karty strategicznej.
 

@@ -17,6 +17,9 @@ Program 1:1 "Nowy kierunek": 6 sesji przez 3 miesiące plus materiały między s
 ## Jaką zmianę daję (transformacja)
 Z "utknęłam i nie wiem, czego chcę" do "mam jasny plan i pierwszy realny ruch, który już zrobiłam".
 
+## Dowody i zaufanie
+Ponad 40 przeprowadzonych procesów 1:1, kilkanaście opinii klientek (mam screeny z wiadomości), certyfikat coacha. Brakuje mi opisanych historii "przed i po", to następna rzecz do zrobienia.
+
 ## Moje cele teraz
 Zapełnić kalendarz na jesień (6-8 klientek 1:1) i zbudować listę mailową, żeby nie zależeć tylko od poleceń.
 
