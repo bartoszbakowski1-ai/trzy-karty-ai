@@ -4,7 +4,7 @@ To darmowy pakiet z live **"Zbuduj własny system AI"** ([bartbakowski.com/webin
 
 W środku masz przewodnika, który **przeprowadzi Cię przez zbudowanie 3 kart kontekstu**:
 
-- **Karta strategiczna** - kim jesteś, do kogo mówisz, co sprzedajesz.
+- **Karta strategiczna** - kim jesteś, do kogo mówisz, co sprzedajesz i jak z Tobą pracować (Twój profil: decyzje, energia, blokery, granice).
 - **Karta wizualna** - jak wygląda Twój świat (kolory, fonty, nastrój).
 - **Karta głosu** - jak AI ma pisać w Twoim imieniu.
 
@@ -21,7 +21,7 @@ Na górze strony GitHub kliknij zielony przycisk **Code -> Download ZIP**. Rozpa
 Jeśli nie masz jeszcze Claude Code, na live pokazuję, jak go zainstalować (to jedna komenda). Otwórz w nim ten folder.
 
 ### 3. Napisz: `zacznijmy`
-I tyle. Reszta dzieje się w rozmowie. Claude przywita Cię, wytłumaczy plan i poprowadzi krok po kroku, jedno pytanie po drugim. Zajmie to 20-30 minut. Wypełnione karty zapisze w folderze `karty/`, a na końcu złoży z nich Twój gotowy plik kontekstu `moj-CLAUDE.md`.
+I tyle. Reszta dzieje się w rozmowie. Claude przywita Cię, wytłumaczy plan i poprowadzi krok po kroku, jedno pytanie po drugim. Zajmie to ok. 30-40 minut. Wypełnione karty zapisze w folderze `karty/`, a na końcu złoży z nich Twój gotowy plik kontekstu `moj-CLAUDE.md`.
 
 ---
 

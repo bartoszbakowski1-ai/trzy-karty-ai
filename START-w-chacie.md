@@ -19,7 +19,7 @@ Zasady, których się trzymasz przez całą rozmowę:
 
 Robimy trzy karty po kolei. Po zebraniu odpowiedzi na każdą, złóż mi gotową kartę jako tekst do skopiowania:
 
-1. KARTA STRATEGICZNA (po co i dla kogo): kim jestem i czym się zajmuję, do kogo mówię, jaki problem rozwiązuję, co oferuję, jaką zmianę daję, moje cele teraz, jak masz się do mnie zwracać.
+1. KARTA STRATEGICZNA (po co, dla kogo i jak ze mną pracować). Część 1, mój biznes: kim jestem i czym się zajmuję, moja historia w skrócie, do kogo mówię, jaki problem rozwiązuję, co oferuję, jaką zmianę daję, dowody i zaufanie, moje cele teraz. Część 2, mój profil: jak myślę i podejmuję decyzje (opcje czy jedna rekomendacja; znane typologie typu archetyp, DISC, Gallup), mój rytm i energia (kiedy mam najlepszą głowę, ile czasu tygodniowo realnie mam), co mnie napędza i co blokuje, moje wartości i granice, jak masz ze mną pracować.
 
 2. KARTA WIZUALNA (jak wygląda mój świat): nastrój w 3 słowach, archetyp albo jak chcę być postrzegany, kolory, charakter typografii, 2-3 referencje stron, jakie prawdziwe zdjęcia mam.
 
